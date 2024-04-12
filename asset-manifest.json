@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/transformvis/static/css/main.20805dc6.css",
+    "main.js": "/transformvis/static/js/main.3f007a96.js",
+    "static/js/453.ad6eb26e.chunk.js": "/transformvis/static/js/453.ad6eb26e.chunk.js",
+    "static/media/cmu-serif-500-roman.ttf": "/transformvis/static/media/cmu-serif-500-roman.bf7ccd25523b20a288b9.ttf",
+    "static/media/cmu-serif-700-roman.ttf": "/transformvis/static/media/cmu-serif-700-roman.45b78465c34fdb77cbdc.ttf",
+    "static/media/cmu-serif-500-italic.ttf": "/transformvis/static/media/cmu-serif-500-italic.49618ae7cdca569ab200.ttf",
+    "static/media/cmu-serif-700-italic.ttf": "/transformvis/static/media/cmu-serif-700-italic.4f17c6e7a6273c334581.ttf",
+    "static/media/cmu-serif-500-roman.woff2": "/transformvis/static/media/cmu-serif-500-roman.87d0cf42c867c8f09b9a.woff2",
+    "static/media/cmu-serif-700-roman.woff2": "/transformvis/static/media/cmu-serif-700-roman.cfeffe22f7b8d68454f8.woff2",
+    "static/media/cmu-serif-500-italic.woff2": "/transformvis/static/media/cmu-serif-500-italic.8b5fa9b98755bfcf1282.woff2",
+    "static/media/cmu-serif-700-italic.woff2": "/transformvis/static/media/cmu-serif-700-italic.a855a4a230d35608fa20.woff2",
+    "static/media/logo.svg": "/transformvis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/transformvis/index.html",
+    "main.20805dc6.css.map": "/transformvis/static/css/main.20805dc6.css.map",
+    "main.3f007a96.js.map": "/transformvis/static/js/main.3f007a96.js.map",
+    "453.ad6eb26e.chunk.js.map": "/transformvis/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20805dc6.css",
+    "static/js/main.3f007a96.js"
+  ]
+}
